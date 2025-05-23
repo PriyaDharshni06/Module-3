@@ -5,6 +5,18 @@
 To write a Python program that accepts a string and joins the character after a each character.
 
 ## 🧠 Algorithm
+1.Start
+
+2.Define a function joinstring(text)
+
+3.Use "-".join(text) to insert hyphens between characters of the string text
+
+4.Store the result in a variable result
+
+5.Print result
+
+6.End
+
 
 
 ## 💻 Program
